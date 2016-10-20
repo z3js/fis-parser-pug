@@ -1,0 +1,27 @@
+{
+  "name": "fis-parser-pug",
+  "version": "0.0.1",
+  "description": "A parser for fis to compile pug(jade) file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'done'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z3js/fis-parser-pug.git"
+  },
+  "keywords": [
+    "fis",
+    "fis3",
+    "pug"
+  ],
+  "author": "lrenc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/z3js/fis-parser-pug/issues"
+  },
+  "homepage": "https://github.com/z3js/fis-parser-pug#readme",
+  "dependencies": {
+    "pug": "^2.0.0-beta6"
+  }
+}
